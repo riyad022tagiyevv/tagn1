@@ -4,9 +4,9 @@ from telethon import TelegramClient, events, Button
 
 #samilben
 # 
-api_id = 12878302
-api_hash = "1ce756e879790d465304f48c36294883"
-bot_token = "6234914134:AAGT_xvHxeP26BL217t3FdQAs7KO8mkjrVo"
+api_id = 29138904
+api_hash = "0cdbc65bf2e0984ad00464dfd871e90c"
+bot_token = "6230712242:AAFIb_hBbo77lJYLqPFf8pGCpDYSBKnoJ3Q"
 
 # Telethon 
 client = TelegramClient('client', api_id, api_hash).start(bot_token=bot_token)
